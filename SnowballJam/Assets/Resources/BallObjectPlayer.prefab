@@ -11162,7 +11162,7 @@ MonoBehaviour:
   rb: {fileID: 6169263893156150506}
   touchGObject: {fileID: 476685522253723675}
   endParticles: {fileID: 1470161011012297792}
-  maxScale: 80
+  maxScale: 200
   minScale: 0.3
   camDistScale: 4
   forceMagnitude: 2400

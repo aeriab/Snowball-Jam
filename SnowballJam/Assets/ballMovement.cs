@@ -32,7 +32,7 @@ public class ballMovement : MonoBehaviour
     [SerializeField] ParticleSystem endParticles;
 
 
-    private float growthFactor = 0.02f;
+    private float growthFactor = 0.06f;
     public float maxScale = 5.0f;
     public float minScale = 0.3f;
     public float camDistScale = 8.0f;
